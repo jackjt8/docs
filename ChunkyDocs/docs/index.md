@@ -1,3 +1,4 @@
+--8<-- "includes/abbreviations.md"
 
 <p align="center">
   <img width="100" src="https://raw.githubusercontent.com/llbit/chunky-docs/master/images/logo.png" alt="Chunky logo">
